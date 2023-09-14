@@ -5,6 +5,7 @@
   "short_name": "Restaurant Viral",
   "description": "List Of Popular Restaurant In Town",
   "display": "standalone",
+  "scope": "/",
   "background_color": "#FFFFFF",
   "theme_color": "#007362",
   "icons": [
